@@ -15,7 +15,7 @@ pip install chatterbot==1.0.4 pytz
 
 ## Usage
 
-Make a copy of this [colab] file and run the blocks to create your own chatbot in two steps. 
+Make a copy of this [colab] (https://colab.research.google.com/drive/1udLD0knnQzqwkJ_26dtpXLhLwwhTw1VB?usp=sharing) file and run the blocks to create your own chatbot in two steps. 
 
 ## Contributing
 
